@@ -1,3 +1,11 @@
+
+<!-- VIEW LINK : https://adel145.github.io/parallax-scroll-animation-2/  --> 
+
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="en" >
 <head>
