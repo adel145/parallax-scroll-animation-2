@@ -12,7 +12,7 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>CodePen - Parallax scroll animation | ICOM DIGITAL</title>
+  <title>CodePen - Parallax scroll animation | ADEL MOHSEN </title>
   <link rel="stylesheet" href="./style.css">
 
 </head>
@@ -22,7 +22,7 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title> Parallax scroll animation | ICOM DIGITAL </title>
+  <title> Parallax scroll animation | ADEL MOHSEN </title>
   <meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="./style.css">
 
 </head>
