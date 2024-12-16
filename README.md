@@ -354,7 +354,7 @@
 
 <div class="scrollElement"></div>
   
-<a href="https://icom-digital.com" target="_blank" class="btn btn_works">My Works</a>
+<a href="https://github.com/adel145" target="_blank" class="btn btn_works">My Works</a>
 <button class="btn" id="fullscr">Go Fullscreen</button>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.3.4/gsap.min.js'></script>
